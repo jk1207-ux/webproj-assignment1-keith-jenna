@@ -1,92 +1,80 @@
-# AI Bootcamp for Beginners
+
 # AI Bootcamp for Beginners: Strategy Blueprint
 
 ## 1. Business Snapshot
-This is a short online course that helps beginners learn about artificial intelligence (AI) in a fun and easy way. No coding or tech skills needed.
+AI JobPrep is a short online program that helps beginners learn AI in a fun, simple way. No coding or tech skills needed. Learners use AI for resumes, LinkedIn, interviews, and everyday work.
 
 ---
 
 ## 2. Core Strategy
 
 ### 2.1 Value Proposition
-- **Problem We Solve:** People want to learn AI but don’t know where to start or think it’s too hard.
-- **For Whom:** Students, job seekers, or curious adults who don’t have tech skills.
-- **Main Benefit:** They understand what AI is and how to use it.
+- **Problem We Solve:** People want to learn AI but don’t know where to start or think it’s too hard.  
+- **For Whom:** Students, job seekers, and curious adults with little or no tech background.  
+- **Main Benefit:** Clear steps to understand AI and use it for real tasks (resume, LinkedIn, interviews, productivity).  
 - **One-Sentence Value Proposition:**  
   “We help beginners learn AI in a fun and easy way—even if they’ve never coded before.”
 
----
-
 ### 2.2 Arbitrage (Market Gap)
-- **Gap:** Most AI courses are too hard or made for tech experts.
-- **Why This Exists:** Most people who teach AI forget what it’s like to be a beginner.
-- **How We Win:** We teach in a fun and simple way, so more people feel comfortable and we earn money by charging for lessons.
-
----
+- **Gap:** Most AI courses are too hard or aimed at tech experts.  
+- **Why This Exists:** Many teachers assume prior knowledge and skip beginner needs.  
+- **How We Win:** We use plain language, short videos, and ready-to-use templates/prompts. We offer a free Starter tier and paid upgrades.
 
 ### 2.3 Leverage (Our Tools + Their Motivation)
-**Our Tools (Internal):**  
-- Easy-to-follow videos  
-- Fun worksheets and cheat sheets  
-- AI quizzes  
-- Help from friendly teachers  
+**Our Tools (Internal):**
+- Short, easy-to-follow videos  
+- Prompt packs, worksheets, and cheat sheets  
+- AI quizzes + practice tasks  
+- Friendly help (community/Q&A; optional 1-on-1)  
 
-**Their Motivation (External):**  
-- People are hearing about AI everywhere and want to learn  
-- Some want to use AI at school or work  
-- Others just don’t want to feel left behind  
+**Their Motivation (External):**
+- AI is everywhere; people don’t want to be left behind  
+- Learners want quick job wins (better resume, more interviews)  
+- Employers expect basic AI skills
+
+**Why this works:** Templates + small lessons = fast wins → confidence → word-of-mouth and upgrades.
 
 ---
 
-## 3. Customer Persona
+## 3. Customer Persona(s)
 
-### Persona 1
-- **Name:** Mia, 21 years old  
-- **Job:** College student studying English  
-- **Fears:** She thinks she’s not smart enough for tech  
-- **Wants:** To understand how AI works and use it to help write essays or find jobs  
-- **Why Now:** She saw people using ChatGPT and felt left out  
-- **Worries:** She doesn’t want it to be boring or confusing  
+### Persona 1 — Mia, 21 (College Student)
+- **Fears:** “I’m not a tech person.”  
+- **Wants:** Understand AI basics; use AI to write better essays and find jobs.  
+- **Why Now:** Friends use ChatGPT; she feels left out.  
+- **Worries:** “It’ll be boring or confusing.”  
 - **Where She Hangs Out:** Instagram, TikTok, YouTube  
-- **How We Win Her Trust:** Show other students like her who learned, offer free tips, and make everything easy to follow
-  
-### Persona 2
-- **Name:** Jay, 29 years old  
-- **Job:** Delivery driver  
-- **Pain Points:** Wants to start an online business using AI but doesn’t know where to begin  
-- **Wants:** Learn AI basics step-by-step without feeling confused or judged  
+- **How We Win Trust:** Show other students like her; offer a free starter; keep lessons short and friendly.
+
+### Persona 2 — Jay, 29 (Career Changer)
+- **Pain Points:** Wants to start an online career path using AI but doesn’t know where to begin.  
+- **Wants:** Step-by-step basics without judgment; clear tasks that lead to real outcomes (resume, outreach, interview prep).
 
 ---
 
 ## 4. Influence & Brand Strategy
 
-### 4.1 Cialdini’s Persuasion Tricks
-
-- **Social Proof:** Show happy students talking about what they learned  
-- **Authority:** Show the teacher’s real experience with AI and school partners  
-- **Liking:** Use fun colors, emojis, and friendly videos  
-- **Commitment & Consistency:** Start with a short free lesson, then let them keep learning step-by-step  
-- **Reciprocity:** Give a free AI cheat sheet to everyone who signs up
-
----
+### 4.1 Cialdini’s Principles (how they show up on the site)
+- **Social Proof:** Short quotes with photos (“I got interviews in 2 weeks”).  
+- **Authority:** Clear curriculum, real examples, and practical templates.  
+- **Liking:** Friendly tone, simple UI, relatable stories.  
+- **Commitment & Consistency:** Free starter lesson + weekly checklist to build momentum.  
+- **Reciprocity:** Free AI cheat sheet / prompt pack with signup.
 
 ### 4.2 Brand Archetype
-
-**Chosen Archetype:** Explorer
-
-- **Why:** Our learners want to try something new and explore the world of AI  
-- **Tone of Voice:** Excited, friendly, and helpful  
-- **Visual Style:** Bright colors, bold fonts, fun icons  
-- **Main Message:** “Let’s explore AI together—it’s easier than you think!”
+- **Chosen Archetype:** **Explorer**  
+- **Why:** Learners want to try something new and feel confident exploring AI.  
+- **Tone of Voice:** Excited, friendly, helpful.  
+- **Visual Style:** Modern “techy” dark theme; bold headings; simple icons.  
+- **Core Message:** “Let’s explore AI together—it’s easier than you think!”
 
 ---
 
 ## 5. Bonus Messages (Optional)
-
-- **Awareness:** “Think AI is too hard? It’s not!”  
-- **Consideration:** “See how Mia learned to use AI in just 7 days.”  
-- **Action:** “Join our free class—only 10 spots left this week.”  
-- **Referral:** “Invite a friend and get a bonus cheat sheet or coaching call.”
+- **Awareness:** “Think AI is too hard? It’s not.”  
+- **Consideration:** “See how Mia learned the basics in 7 days.”  
+- **Action:** “Start free today—build your first AI-powered resume bullet in 30 minutes.”  
+- **Referral:** “Invite a friend and get a bonus prompt pack.”
 
 ---
 
